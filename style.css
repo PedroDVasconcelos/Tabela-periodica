@@ -1,0 +1,157 @@
+*{ 
+    margin: 0;
+}
+
+.itens-grupo{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.i-1{
+    padding-left: 138px;
+}
+
+.i-2{
+    padding-right: 150px;
+}
+
+table{
+    width: 100%;
+    height: 100vh;
+}
+
+td{
+    width: 5%;
+    height: 8vh;
+    
+}
+
+.hidrogenio{
+    background-color: #CAFFBF;
+}
+
+.alcalino{
+    background-color: #FFDA9E;
+}
+
+.terrosos{
+    background-color: #fdfd96;
+}
+
+.M-trans{
+    background-color: #FFADAD;
+}
+
+.semi-m{
+    background-color: #2FC4B2;
+}
+
+.outros-M{
+    background-color: #c5c6c8;
+}
+
+.nao-M{
+    background-color: #7fea96;
+}
+
+.halogenios{
+    background-color: #C4FAF8;
+}
+
+.gases-N{
+    background-color: #6EB5FF;
+}
+
+.lantanaideos{
+    background-color: #97A2FF;
+}
+
+.actinidios{
+    background-color: #FFB5E8;
+}
+
+.elemento{
+    border: 0;
+    text-align: center;
+    margin: none;
+}
+
+.elementoex{
+    border: 1px solid gray;
+}
+
+div{
+    text-align: left;
+    padding-left: 5px;
+    padding-top: 3px;
+}
+
+.barras{
+    padding-left: 50px;
+}
+
+.setap{
+    position: absolute;
+    right: 1545px;
+}
+
+.setas-vert{
+    position: absolute;
+    right: 1545px;
+    top: 490px;
+}
+
+.setas-vert2{
+    position: absolute;
+    right: 1565px;
+}
+
+.setas-hor{
+    position: absolute;
+    bottom: 10px;
+    right: 1538px;
+    top: 746px;
+}
+
+.setas-hor2{
+    position: absolute;
+    bottom: 10px;
+    right: 1555px;
+    top: 846px;
+}
+
+.elementoex{
+    border: 1px solid gray;
+}
+
+.direcao-info-ex{
+    position: absolute;
+}
+
+.direcao-info-ex1{
+    top: 86px;
+    right: 1330px;
+}
+
+.direcao-info-ex2{
+    right: 1330px;
+    top: 109px;
+
+}
+
+.direcao-info-ex3{
+    top: 130px;
+    right: 1330px;
+}
+
+.direcao-info-ex4{
+    top: 150px;
+    right: 1330px;
+}
+
+.descricoes-ex{
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    gap: 5px;
+}
