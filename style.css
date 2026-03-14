@@ -155,3 +155,108 @@ div{
     flex-direction: column;
     gap: 5px;
 }
+
+.legenda{
+    display: flex;
+    gap: 150px;
+    position: absolute;
+    top: 945px;
+    right: 642px;
+}
+
+.NMP{
+    background-color: #CAFFBF;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.MA{
+    background-color: #FFDA9E;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.SM{
+    background-color: #2FC4B2;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.OT{
+    background-color: #c5c6c8;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.LA{
+    background-color: #97A2FF;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.legenda2{
+    display: flex;
+    gap: 150px;
+    position: absolute;
+    right: 642px;
+}
+
+.GN{
+    background-color: #6EB5FF;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.MAT{
+    background-color: #fdfd96;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.HA{
+    background-color: #C4FAF8;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.MT{
+    background-color: #FFADAD;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+.AC{
+    background-color: #FFB5E8;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
